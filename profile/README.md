@@ -1,6 +1,6 @@
-# Puteoli Systems
+# Trellis Systems
 
-Hi, we're Puteoli Systems, and our current project is a Church Management System called [Trellis](https://trellis.netlify.app).
+Hi, we're Trellis Systems, we are making a Church Management System (ChMS) for the modern era.
 
 Watch this space for updates!
 
