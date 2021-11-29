@@ -1,8 +1,16 @@
+![Logo](https://avatars.githubusercontent.com/u/94115066?s=200&v=4)
 # Trellis
 
-Hi, we're Trellis, we are making a Church Management System (ChMS) for the modern era.
+## Intro
 
-[Our webpage](https://trellis.netlify.app) has more details, however we are planning to use **RedwoodJS** to build our API and web frontend, and add a mobile app once Redwood reaches 1.0 and add support for a mobile side.
+Trellis is a new Church Management System (ChMS) built on the latest technologies. It's designed to be the easiest and simplest ChMS, with a range of features to choose from for your church.
 
----
-*Ed, Founder*
+## Ideas
+
+- Build a Church admin application on a modern lightweight stack (ideally use [Jamstack](https://jamstack.org))
+- Fast & Responsive
+- Easy-to-use (especially for non-techies)
+
+## Stack
+
+[RedwoodJS](https://redwoodjs.com)
