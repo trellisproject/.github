@@ -1,5 +1,8 @@
-![Logo](https://avatars.githubusercontent.com/u/94115066?s=200&v=4)
-# Trellis
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/94115066?s=200&v=4" height=100/>
+  <h3>Trellis</h3>
+</div>
+
 
 ## Intro
 
